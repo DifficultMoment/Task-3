@@ -1,0 +1,17 @@
+C:\Users\vladv\source\repos\game\game\bin\Debug\game.exe.config
+C:\Users\vladv\source\repos\game\game\bin\Debug\game.exe
+C:\Users\vladv\source\repos\game\game\bin\Debug\game.pdb
+C:\Users\vladv\source\repos\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\vladv\source\repos\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\vladv\source\repos\game\game\obj\Debug\game.exe
+C:\Users\vladv\source\repos\game\game\obj\Debug\game.pdb
+D:\Itransition\3\game\game\bin\Debug\game.exe.config
+D:\Itransition\3\game\game\bin\Debug\game.exe
+D:\Itransition\3\game\game\bin\Debug\game.pdb
+D:\Itransition\3\game\game\obj\Debug\game.csprojAssemblyReference.cache
+D:\Itransition\3\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\Itransition\3\game\game\obj\Debug\game.exe
+D:\Itransition\3\game\game\obj\Debug\game.pdb
+D:\Itransition\3\game\game\bin\Debug\ConsoleTables.dll
+D:\Itransition\3\game\game\bin\Debug\ConsoleTables.pdb
+D:\Itransition\3\game\game\obj\Debug\game.csproj.CopyComplete
